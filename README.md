@@ -5,7 +5,7 @@ open (adjective): allowing access, passage, or a view through an empty space; no
 enterprise (noun): a project or undertaking, especially a bold or complex one.
 
 -----
-Software is the most modern technological tool that has features that makes operating society more efficient. Open Enterprise is an open source application suite that will have the features needed to organize communities or organizations of any size. It would eventually include the following features, accessible from a single location: 
+Software is the most modern technological tool that has features that makes operating society more efficient. Open Enterprise is an open source application suite that will have the features needed to organize communities or organizations of any size. It would be a platform with a unified user experience, and allow users to customize with plug & play components. It should eventually include the following features, accessible from a single location: 
 
 * social networking
 * private messages and chat rooms
@@ -14,8 +14,9 @@ Software is the most modern technological tool that has features that makes oper
 * skill matching
 * learning/tutorials
 * ability to organizing meetings/events
-* governance an collective decision making
+* governance / collective decision making
 * document collaboration
-* resource management/sharing
+* data science tools
+* resource management/pooling
 * collective budgeting
 * amongst many other planning/finance/collaboration features to maximize operational efficiency
