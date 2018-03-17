@@ -31,4 +31,4 @@ Choosing [aragonOS](https://github.com/aragon/aragonOS) as the base layer for th
 
 What we need to do is come up with the a unified design pattern and begin to prioritize features and ensuring that the current development work proposed above is interoperable, and refactor code as needed and migrate to a unified codebase.
 
-The Open Enterprise app should allow for the logo and branding to be customized so each organization can feel like the platform is theirs.
+The Open Enterprise app should allow for the logo, colors, fonts to be customized so each organization can feel like the platform is theirs.
