@@ -15,7 +15,7 @@ Software is the most modern technological tool that has features that makes oper
 * crowdfunding/crowdsourcing
 * skill matching
 * learning/tutorials
-* ability to organizing meetings/events
+* ability to organize meetings/events
 * governance / collective decision making
 * document collaboration
 * data science tools
