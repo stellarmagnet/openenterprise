@@ -22,3 +22,8 @@ Software is the most modern technological tool that has features that makes oper
 * resource management/pooling
 * collective budgeting
 * amongst many other planning/finance/collaboration features to maximize operational efficiency
+
+# Next Steps
+We should look at the previous research in features done by the [Collaborative Technology Alliance](https://wiki.p2pfoundation.net/Collaborative_Technology_Alliance) and create an actionable and prioritized roadmap.
+
+Choosing aragonOS as the base layer for this system would probably be the best approach. With Giveth modules and the Harbour voting protocol added onto Aragon, in addition to the proposed Planning app, a lot of needs will have already been met.
