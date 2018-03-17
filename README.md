@@ -29,6 +29,6 @@ We should look at the previous research in features done by the [Collaborative T
 
 Choosing [aragonOS](https://github.com/aragon/aragonOS) as the base layer for this system would probably be the best approach. With [Giveth ](https://giveth.io/) modules and the [Harbour](https://github.com/HarbourProject/protocol) voting protocol eventually being integrated into Aragon, in addition to the proposed [Aragon Planning app](https://github.com/aragon/nest/pull/24), and social networking/forum design patterns developed by [Space Decentral](https://spacedecentral.net), a lot of needs will have already been met.
 
-What we need to do is come up with the a unified design pattern and begin to prioritize features and ensuring that the current development work proposed above is interoperable.
+What we need to do is come up with the a unified design pattern and begin to prioritize features and ensuring that the current development work proposed above is interoperable, and refactor code as needed and migrate to a unified codebase.
 
 The Open Enterprise app should allow for the logo and branding to be customized so each organization can feel like the platform is theirs.
