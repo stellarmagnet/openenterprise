@@ -11,7 +11,7 @@ Software is the most modern technological tool that has features that makes oper
 
 * social networking
 * private messages and chat rooms
-* ability to create, join, follow projects and sub-projects
+* complex project planning tools with work breakdown structures, gantt, dependencies
 * crowdfunding/crowdsourcing
 * skill matching
 * learning/tutorials
@@ -21,6 +21,7 @@ Software is the most modern technological tool that has features that makes oper
 * data science tools
 * resource management/pooling
 * collective budgeting
+* artificial intelligence
 * amongst many other planning/finance/collaboration features to maximize operational efficiency
 
 # Next Steps
