@@ -11,16 +11,14 @@ Software is the most modern technological tool that has features that makes oper
 
 * Social Networking
 * Private Messages, Group Messages and Chat Rooms
-* Task Management
-* Project Management
+* Task Management & Project Management
   * Work breakdown structures, Gantt, Dependencies
 * Crowdfunding, Cryptoequity
 * Crowdsourcing, Skill Matching
 * Learning, Knowledge Bases, Tutorials
 * Event Organization
 * Governance & Decision Making
-* Document Collaboration
-* File Sharing
+* Document Collaboration & File Sharing
 * Data Science, Machine Learning, Artificial Intelligence
 * Resource Management & Pooling
 * Finance & Collective Budgeting
