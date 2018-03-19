@@ -22,7 +22,7 @@ Software is the most modern technological tool that has features that makes oper
 * Document Collaboration
 * File Sharing
 * Data Science, Machine Learning, Artificial Intelligence
-* resource management/pooling
+* Resource Management & Pooling
 * Finance & Collective budgeting
 
 amongst many other planning/finance/collaboration features to maximize operational efficiency
