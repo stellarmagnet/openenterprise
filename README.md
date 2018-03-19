@@ -9,20 +9,23 @@ enterprise (noun): a project or undertaking, especially a bold or complex one.
 
 Software is the most modern technological tool that has features that makes operating society more efficient. Open Enterprise is an open source application suite that will have the features needed to organize communities or organizations of any size. It would be a platform with a unified user experience, and allow users to customize with plug & play components. It should eventually include the following features, accessible from a single location: 
 
-* social networking
-* private messages and chat rooms
-* complex project planning tools with work breakdown structures, gantt, dependencies
-* crowdfunding/crowdsourcing
-* skill matching
-* learning/tutorials
-* ability to organize meetings/events
-* governance / collective decision making
-* document collaboration
-* data science tools
+* Social Networking
+* Private Messages, Group Messages and Chat Rooms
+* Task Management
+* Project Management
+  * Work breakdown structures, Gantt, Dependencies
+* Crowdfunding, Cryptoequity
+* Crowdsourcing, Skill Matching
+* Learning, Knowledge Bases, Tutorials
+* Event Organization
+* Governance & Decision Making
+* Document Collaboration
+* File Sharing
+* Data Science, Machine Learning, Artificial Intelligence
 * resource management/pooling
-* collective budgeting
-* artificial intelligence
-* amongst many other planning/finance/collaboration features to maximize operational efficiency
+* Finance & Collective budgeting
+
+amongst many other planning/finance/collaboration features to maximize operational efficiency
 
 # Next Steps
 We should look at the previous research in features done by the [Collaborative Technology Alliance](https://wiki.p2pfoundation.net/Collaborative_Technology_Alliance) and create an actionable and prioritized roadmap.
