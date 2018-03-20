@@ -33,7 +33,7 @@ We should look at the previous research in features done by the [Collaborative T
 
 Choosing [aragonOS](https://github.com/aragon/aragonOS) as the base layer for this application would be the best approach. With planned integrations such as [Giveth](https://giveth.io/) modules, the [Harbour](https://github.com/HarbourProject/protocol) voting app, the proposed [Aragon Planning app](https://github.com/aragon/nest/pull/24), a lot of needs will have already been met.
 
-The forum, project and forum design patterns that are being prototyped by [Space Decentral](https://spacedecentral.net) can be enhanced and migrated toward this ecosystem and help "glue" together the apps.  
+The forum, project and profile design patterns that are being prototyped by [Space Decentral](https://spacedecentral.net) can be enhanced and migrated toward this ecosystem to help "glue" together the apps.  
 
 The next steps are to:
 * come up with a unified design pattern
