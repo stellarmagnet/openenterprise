@@ -30,13 +30,12 @@ It should eventually include the following features, accessible from a single lo
 
 ... amongst many other planning/finance/collaboration features to maximize operational efficiency
 
-The Open Enterprise app should allow for the logo, colors, fonts to be customized so each organization can feel like the platform is theirs.
+Organizations should be able to customize the logo, colors and fonts so everyone can feel like the platform is theirs.
 
 
 # Next Steps
 
 We should look at the previous research in features done by the [Collaborative Technology Alliance](https://wiki.p2pfoundation.net/Collaborative_Technology_Alliance) and create an actionable and prioritized roadmap.
-
 
 
 Some of the forum, project and profile design patterns that are being prototyped by [Space Decentral](https://spacedecentral.net) can be enhanced and migrated toward this decentralized ecosystem and help "glue" together the apps.  
