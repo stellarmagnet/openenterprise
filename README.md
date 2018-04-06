@@ -13,7 +13,7 @@ Choosing [aragonOS](https://github.com/aragon/aragonOS) as the base layer for th
 
 ![OEI](https://github.com/stellarmagnet/openenterprise/blob/master/img/oei.png)
 
-NOTE: Open Enterprise is still a concept. None of the organizations above have officially committed to this initiative.
+**NOTE: Open Enterprise is still a concept. None of the organizations above have officially committed to this initiative.**
 
 This ecosystem should eventually include the following features, accessible from a single location, with the ability for the organization to "plug & play" the features needed: 
 
